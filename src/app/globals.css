@@ -16,6 +16,11 @@
   }
 }
 
+@font-face {
+  font-family: "font1";
+  src: url("../../public/fonts/font1.otf");
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
