@@ -91,13 +91,7 @@ const Section2 = ({ scrollYProgress }: SectionProps) => {
         <h1>
           Mauris commodo at ante eget ultrices. Integer sit amet pretium purus,
           congue imperdiet turpis. Aenean non lacus orci. Vestibulum nec nulla
-          augue. Vivamus vitae dapibus urna. Aenean vestibulum lorem ligula, ut
-          fermentum nibh condimentum in. Donec varius interdum dolor, faucibus
-          fringilla augue lobortis a. Duis euismod justo at odio fermentum, at
-          volutpat metus vestibulum. Sed mi dolor, interdum eu convallis ut,
-          vestibulum ac sapien. Etiam velit lectus, interdum sed erat sit amet,
-          sagittis vestibulum eros. Phasellus imperdiet nec nulla bibendum
-          pulvinar. Quisque dui turpis, faucibus non auctor vel, maximus at ex.
+          augue.
         </h1>
       </div>
     </motion.div>
