@@ -1,7 +1,5 @@
 "use client";
-import Image from "next/image";
-import Pic1 from "../../public/images/Pic1.jpg";
-import Pic2 from "../../public/images/Pic2.png";
+import Pic1 from "../../public/Pic1.jpg";
 import { useScroll, useTransform, motion } from "framer-motion";
 import { useEffect, useRef } from "react";
 import Lenis from "lenis";
